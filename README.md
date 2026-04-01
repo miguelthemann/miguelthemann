@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm miguelthemann 🐾</h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@miguelthemann?theme=rule34" alt="Moe Counter" />
+  <img src="https://moe-counter.glitch.me/get/@miguelthemann?theme=rule34" alt="Moe Counter" />
 </p>
 
 ### 🛠️ Sobre mim
