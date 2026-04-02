@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Moka_Hoto_Holding_Python_For_Beginners.png" width="250" alt="Moka Hoto holding Python book" />
 </p>
 
-<h1 align="center">Hi, I'm miguelthemann 🐾</h1>
+<h1 align="center">Hi, I'm miguelthemann ✨</h1>
 
 <p align="center">
   <img src="https://count.getloli.com/@:name?theme=booru-qualityhentais" alt=":Hmm" />
@@ -11,7 +11,7 @@
 ### 🛠️ Sobre mim
 Sou um programador focado em automação e scripting. Se algo pode ser feito manualmente, eu vou gastar 3 horas a escrever um script para o fazer em 2 segundos.
 
-* **Linguagens:** `Python`, `Bash/Shell`, `Batch` e `Ruby`.
+* **Linguagens:** `Python`, `Bash/Shell` e `Batch`.
 * **Interesses:** Automação de sistemas, customização de ambientes Linux (Ricing) e corromper o GRUB por desporto.
 * **Localização:** Porto, Portugal 🇵🇹
 
