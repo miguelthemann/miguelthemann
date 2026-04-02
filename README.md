@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Moka_Hoto_Holding_Python_For_Beginners.png" width="250" alt="Moka Hoto holding Python book" />
 </p>
 
-<h1 align="center">Hi, I'm miguelthemann ✨</h1>
+<h1 align="center">Hi, I'm Miguel ✨</h1>
 
 <p align="center">
   <img src="https://count.getloli.com/@:name?theme=booru-qualityhentais" alt=":Hmm" />
