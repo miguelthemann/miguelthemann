@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Miguel ✨</h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:miguelthemann?theme=booru-booru-lisu" alt=":Hmm" />
+  <img src="https://count.getloli.com/@:miguelthemann?theme=booru-qualityhentais" alt=":Hmm" />
 </p>
 
 ### 🛠️ Sobre mim
