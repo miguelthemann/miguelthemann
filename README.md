@@ -17,9 +17,9 @@ Sou um programador focado em automação e scripting. Se algo pode ser feito man
 
 ---
 
-### 📊 GitHub Stats
+### GitCity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelthemann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://www.thegitcity.com/dev/miguelthemann" alt="GitCity" />
 </p>
 
 ---
