@@ -19,7 +19,9 @@ Sou um programador focado em automação e scripting. Se algo pode ser feito man
 
 ### GitCity
 <p align="center">
-  <img src="https://www.thegitcity.com/dev/miguelthemann" alt="GitCity" />
+  <a href="https://www.thegitcity.com/dev/miguelthemann">
+    <img src="https://img.shields.io/badge/VISITE%20MINHA%20GIT%20CITY-FF5722?style=for-the-badge&logo=fortnite&logoColor=white" alt="GitCity MiguelTheMann">
+  </a>
 </p>
 
 ---
