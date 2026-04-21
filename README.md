@@ -26,6 +26,16 @@ Sou um programador focado em automação e scripting. Se algo pode ser feito man
 
 ---
 
+
+### PSNProfiles
+<p align="center">
+<a href="https://psnprofiles.com/SirEntr0pyy">
+  <img src="https://card.psnprofiles.com/1/SirEntr0pyy.png" border="0">
+  </a>
+</p>
+
+---
+
 ### 🚀 Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
