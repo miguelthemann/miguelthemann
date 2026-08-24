@@ -11,7 +11,7 @@
 ### 🛠️ Sobre mim
 Sou um programador focado em automação e scripting. Se algo pode ser feito manualmente, eu vou gastar 3 horas a escrever um script para o fazer em 2 segundos.
 
-* **Linguagens:** `Python`, `Bash/Shell` e `Batch`.
+* **Linguagens:** `Python`, `Bash/Shell`, `PHP` e `Batch`.
 * **Interesses:** Automação de sistemas, customização de ambientes Linux (Ricing) e corromper o GRUB por desporto.
 * **Localização:** Porto, Portugal 🇵🇹
 
@@ -38,6 +38,7 @@ Sou um programador focado em automação e scripting. Se algo pode ser feito man
 ### 🚀 Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
